@@ -1,4 +1,4 @@
-# CSE-CPP-Codes
+# <p align="center">📘CSE-CPP-Codes📘</p>
 
 This repository contains the basic codes of CSE -- ```Object-Oriented Programming```, which are coded in C++ Language.
 
